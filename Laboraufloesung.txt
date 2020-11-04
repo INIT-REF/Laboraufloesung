@@ -1,7 +1,38 @@
 Filme
 
-Typ                         Format    MHD       Einzelpreis   Verfügbare Anzahl   Bemerkungen
+Artikel                     Format    MHD       Einzelpreis   Verfügbare Anzahl   Bemerkungen
 =========================================================================================================
 Kodak Portra 160 5er Pack   135/36    04/2020   15,00         3                   Durchgehend TK gelagert
-Kodak Portra 400 5er Pack
- 
+Kodak Portra 400 5er Pack   135/36
+Rollei                      4x5"
+
+
+
+
+Fotopapier
+
+Artikel                     Format    MHD       Einzelpreis   Verfügbare Anzahl   Bemerkungen
+=========================================================================================================
+Fomabrom Variant 111 Baryt  24x30cm
+Fomabrom Variant 111 Baryt  13x18cm
+Adox
+
+
+
+
+Chemie
+
+Artikel                     MHD       Einzelpreis   Verfügbare Anzahl   Bemerkungen
+=========================================================================================================
+Kodak Dektol Pulver für 
+Kodak D76 Pulver für 1L
+Moersch Easy Lith
+Moersch Carbontoner
+Moersch Selentoner
+
+
+
+Labor
+
+Artikel                         Format     Einzelpreis   Verfügbare Anzahl   Bemerkungen
+=========================================================================================================
