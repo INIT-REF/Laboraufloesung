@@ -1,1 +1,6 @@
-Test
+Filme
+
+Typ                         Format    MHD       Preis   Bemerkungen
+======================================================================================
+Kodak Portra 160 5er Pack   135/36    04/2020   15,00   Durchgehend TK gelagert
+Kodak Portra 400 5er Pack
