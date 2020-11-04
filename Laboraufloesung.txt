@@ -4,21 +4,21 @@ Artikel                     Format    MHD       Einzelpreis   Verfügbare Anzahl
 =================================================================================================================================================
 Kodak Portra 160 5er Pack   135/36    07/2020   20,00         4                   Durchgehend TK gelagert; Eine Packung geöffnet aber vollständig
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Kodak Portra 160 5er Pack   120       12/2018   20,00         2                   Durchgehend TK gelagert
+Kodak Portra 160 5er Pack   120       12/2018   20,00         2                   Ungeöffnet, Durchgehend TK gelagert
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Kodak Portra 400 5er Pack   120       03/2019   20,00         1                   Durchgehend TK gelagert
+Kodak Portra 400 5er Pack   120       03/2019   20,00         1                   Ungeöffnet, Durchgehend TK gelagert
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Kodak Portra 400 4 Stück    120       03/2019   16,00         1                   Durchgehend TK gelagert
+Kodak Portra 400 4 Stück    120       03/2019   16,00         1                   Durchgehend TK gelagert, Preis gilt für alle zusammen
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Fuji Acros I 100 5er Pack   120       10/2016   20,00         4                   Durchgehend TK gelagert
+Fuji Acros I 100 5er Pack   120       10/2016   20,00         4                   Ungeöffnet, Durchgehend TK gelagert
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Fuji Provia 100F 5er Pack   120       12/2017   20,00         4                   Durchgehend TK gelagert
+Fuji Provia 100F 5er Pack   120       12/2017   20,00         4                   Ungeöffnet, Durchgehend TK gelagert
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Fuji Provia 400X 2 Stück    120       07/2017    8,00         1                   Durchgehend TK gelagert
+Fuji Provia 400X 2 Stück    120       07/2017    8,00         1                   Durchgehend TK gelagert, Preis gilt für alle zusammen
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Rollei Ortho 25 50 Blatt    4x5"      n.a.      40,00         3                   Durchgehend TK gelagert
+Rollei Ortho 25 50 Blatt    4x5"      n.a.      40,00         3                   Ungeöffnet, Durchgehend TK gelagert
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Wephota FO-5 40 Blatt       4x5"      n.a.      15,00                             Durchgehend TK gelagert
+Wephota FO-5 40 Blatt       4x5"      n.a.      15,00         4                   Ungeöffnet, Durchgehend TK gelagert
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -28,13 +28,13 @@ Fotopapier
 
 Artikel                     Format       Einzelpreis   Verfügbare Anzahl   Bemerkungen
 ==============================================================================================================
-Fomabrom Variant 111 Baryt  24x30cm                    2                   Ungeöffnet, Durchgehend TK gelagert
+Fomabrom Variant 111 Baryt  24x30cm/50   30,00         2                   Ungeöffnet, Durchgehend TK gelagert
 --------------------------------------------------------------------------------------------------------------
-Fomabrom Variant 111 Baryt  13x18cm                    2                   Ungeöffnet, Durchgehend TK gelagert
+Fomabrom Variant 111 Baryt  13x18cm/100  20,00         2                   Ungeöffnet, Durchgehend TK gelagert
 --------------------------------------------------------------------------------------------------------------
-Fomatone MG Baryt           13x18cm                    1                   Ungeöffnet, Durchgehend TK gelagert
+Fomatone MG 131 Baryt       13x18cm/100  20,00         1                   Ungeöffnet, Durchgehend TK gelagert
 --------------------------------------------------------------------------------------------------------------
-Fomatone MG Baryt           24x30cm                    1                   Ungeöffnet, Durchgehend TK gelagert
+Fomatone MG 131 Baryt       24x30cm/50   30,00         1                   Ungeöffnet, Durchgehend TK gelagert
 --------------------------------------------------------------------------------------------------------------
 
 
@@ -90,7 +90,7 @@ Rodenstock Rodagon 50mm/4                             30,00         1
 ---------------------------------------------------------------------------------------------------------------------------
 Rodenstock Apo-Gerogon 210mm/9                        50,00         1      mit Lederetui
 ---------------------------------------------------------------------------------------------------------------------------
-Osram Halostar 250W klar                               3,00         7
+Osram Halostar 250W klar B15d                          3,00         7
 ---------------------------------------------------------------------------------------------------------------------------
 Sylvania ELC 24V 250W GX 5,3                           3,00         1
 ---------------------------------------------------------------------------------------------------------------------------
