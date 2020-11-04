@@ -4,3 +4,4 @@ Typ                         Format    MHD       Einzelpreis   Verfügbare Anzahl
 =========================================================================================================
 Kodak Portra 160 5er Pack   135/36    04/2020   15,00         3                   Durchgehend TK gelagert
 Kodak Portra 400 5er Pack
+ 
